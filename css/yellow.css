@@ -1,0 +1,44 @@
+
+
+#q span:first-child{
+	
+	    border: 1px solid yellow;
+	
+	
+}
+#snav2{
+color:yellow;}
+.navbar a:active,a:hover
+{
+	color:yellow;
+	
+}
+.carousel-indicators  .active{
+	background-color:yellow;
+	
+}
+.carousel-caption span{
+	
+	background-color:yellow;
+	
+	
+}
+.components i{
+	
+background-color:yellow;}
+
+.btn-danger{
+	background-color:yellow;
+}
+.btcls:hover{
+	
+	background-color:yellow;
+	border:2px solid yellow;
+    
+	
+	
+}
+.scrollTop {
+	background-color:yellow;
+	
+}

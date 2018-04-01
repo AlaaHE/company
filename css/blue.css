@@ -1,0 +1,44 @@
+
+
+#q span:first-child{
+	
+	    border: 1px solid blue;
+	
+	
+}
+#snav2{
+color:blue;}
+.navbar a:active,a:hover
+{
+	color:blue;
+	
+}
+.carousel-indicators  .active{
+	background-color:blue;
+	
+}
+.carousel-caption span{
+	
+	background-color:blue;
+	
+	
+}
+.components i{
+	
+background-color:blue;}
+
+.btn-danger{
+	background-color:blue;
+}
+.btcls:hover{
+	
+	background-color:blue;
+	border:2px solid blue;
+    
+	
+	
+}
+.scrollTop {
+	background-color:blue;
+	
+}

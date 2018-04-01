@@ -1,0 +1,44 @@
+
+
+#q span:first-child{
+	
+	    border: 1px solid red;
+	
+	
+}
+#snav2{
+color:red;}
+.navbar a:active,a:hover
+{
+	color:red;
+	
+}
+.carousel-indicators  .active{
+	background-color:red;
+	
+}
+.carousel-caption span{
+	
+	background-color:red;
+	
+	
+}
+.components i{
+	
+background-color:red;}
+
+.btn-danger{
+	background-color:red;
+}
+.btcls:hover{
+	
+	background-color:red;
+	border:2px solid red;
+    
+	
+	
+}
+.scrollTop {
+	background-color:red;
+	
+}

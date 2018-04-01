@@ -1,0 +1,220 @@
+/* *,body ,text */
+*,
+*:before,
+*:after 
+{
+  box-sizing: border-box;
+}
+
+body 
+{
+    background-color: #3e3e3e;
+  	font-size:13px;
+
+}
+
+h1,h2,h3,p
+{
+	
+	font-family: 'Open Sans', sans-serif;
+}
+
+/* loader */
+.over 
+{
+    background:#222;
+    color:#FFF;
+    position:fixed;
+    left:0;
+    top:0;
+    width:100%;
+    height:100%;
+    z-index:90;
+	padding-top:30%;
+}
+
+
+/* buttons theme*/
+
+button
+{ 
+    height:20px;
+    border-radius: 50%;
+}
+
+#grayButton 
+{
+  background-color: gray;
+}
+
+#blueButton 
+{
+  background: blue;
+}
+#yellowButton 
+{
+  background: yellow;
+}
+
+
+/* container*/
+
+#cont
+{
+	position: relative ;
+	background-color: #fff;
+	width:80%;	
+}
+#div1
+{
+	padding:10px;
+	background-color: #0d526d;
+	color:white;
+	font-size:12px;
+}
+#div1 span
+{
+	margin:5px;
+}
+
+/* navbar*/
+#snav1
+{
+color:#0d526d;
+font-weight:bold;
+font-size:25px;
+}	
+
+#snav2
+{
+font-size:28px;
+}	
+
+.navbar a
+{
+	color:#0d526d;	
+}
+
+/* first slider*/
+
+.carousel-caption 
+{
+	color:white;
+    font-size:35px;
+    bottom: 35%;
+    left: 12%;
+    text-align: left;
+}
+
+.carousel-indicators li
+{
+    height:20px;
+	width:20px;
+	border-radius:50%;	
+}
+
+
+/* 4 components*/
+
+.components
+{
+	padding:30px;
+	text-align:center;
+}
+.components i
+{
+	color:white;
+	padding-top:25px;
+	width:70px;
+	height:70px;
+	border-radius:50%;	
+}
+.components h3
+{
+	color:#0d526d;
+	font-size:22px;	
+}
+
+/* jumbotron 1*/
+.jumbotron
+{
+	padding:20px 50px;
+}
+.jumbotron h1,.jumbotron p
+{
+	text-align:center;
+}
+.jumbotron h1
+{
+	font-weight:bold;
+}
+.jumbotron a
+{
+	margin-left:45%;
+}
+
+/* jumbotron 2*/
+.j2
+{
+	background-color:white;
+}
+.j2 .col-sm
+{
+    padding: 0;
+    margin: 2px;
+}
+.btcls
+{
+	color:#0d526d;
+    border:2px solid #0d526d;
+	background-color:white;
+	margin-top:5px;
+	font-size:120%;
+	font-weight:bold;
+	height:50px;	
+}
+.btcls:hover
+{
+	color:white;
+}
+/* photo grid*/
+.gridphoto .col-sm
+{
+	padding:0;	
+}
+
+footer
+{
+    text-align: center;
+    color:#a7a8ad;
+    padding-top: 3%
+}
+                
+                
+footer a
+{
+    color:#a7a8ad;
+    text-decoration: none;
+}
+
+/* scroll top */
+
+.scrollTop 
+{
+  position: fixed;
+  right: 2%;
+  bottom: 10px;
+ 
+  border-radius:50%;
+  padding: 20px;
+  opacity: 0;
+  
+  transition: all 0.4s ease-in-out 0s;
+}
+
+.scrollTop a ,a:hover
+{
+  z-index:777;	
+  font-size: 18px;
+  color: #fff;
+}

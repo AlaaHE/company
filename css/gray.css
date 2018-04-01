@@ -1,0 +1,44 @@
+
+
+#q span:first-child{
+	
+	    border: 1px solid gray;
+	
+	
+}
+#snav2{
+color:gray;}
+.navbar a:active,a:hover
+{
+	color:gray;
+	
+}
+.carousel-indicators  .active{
+	background-color:gray;
+	
+}
+.carousel-caption span{
+	
+	background-color:gray;
+	
+	
+}
+.components i{
+	
+background-color:gray;}
+
+.btn-danger{
+	background-color:gray;
+}
+.btcls:hover{
+	
+	background-color:gray;
+	border:2px solid gray;
+    
+	
+	
+}
+.scrollTop {
+	background-color:gray;
+	
+}
